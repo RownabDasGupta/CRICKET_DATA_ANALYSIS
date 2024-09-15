@@ -6,6 +6,8 @@
 
 3. Please take care of the Date columns in the csv files, because the separators in the day, month and year is different in different rows.
 
-4. Totally useful  project for Data Engineering.
+4. Totally useful project for Data Engineering.
 
-5. I used AWS path to store .csv files, you can also store in DBFS.
+5. You can use AWS storage or DBFS to store the .csv files. I used Databricks to create this project.
+
+6. To get the code use only .ipynb file. 
