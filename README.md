@@ -1,3 +1,6 @@
+Tech Used : Spark & PySpark (for Transformation), SQL (for Analysis), Python & Pandas - Matplotlib (for Visualization) and
+Platform Used : Databricks, DBFS, Amazon S3
+
 # CRICKET_DATA_ANALYSIS
 
 1. IPL Data Analysis (Data Link) -> https://data.world/raghu543/ipl-data-till-2017
@@ -11,3 +14,4 @@
 5. You can use AWS storage or DBFS to store the .csv files. I used Databricks to create this project.
 
 6. To get the code use only .ipynb file. 
+
